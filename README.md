@@ -1,4 +1,3 @@
-# Project-2-GAME
 # Millantis
 It a onsite multiple player puzzle game
 <ul>
