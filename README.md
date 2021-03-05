@@ -24,11 +24,26 @@ It a onsite multiple player puzzle game
  
  <div>
   <h1>Linux Install Guide</h1>
-  <ul>
-    <li>git clone reponame</li>
-    <li>./app-run.sh</li>
+  <ol>
+    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from here</li>
+   <li>Extract the .zip file</li>
+   <li>Go to Millantis_master folder</li>
+   <li>Open the terminal (clt+alt+T)</li>
+   <li>On terminal command:<br/> <b>./app-run</b> </li>
     
-  </ul>
+  </ol>
+  
+ </div>
+ 
+  <div>
+  <h1>Windows Install Guide</h1>
+  <ol>
+    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from here</li>
+   <li>Extract the .zip file</li>
+   <li>Go to Millantis_master folder</li>
+   <li>Double Click the:<br/> <b>millantis.exe</b> </li>
+    
+  </ol>
   
  </div>
 
