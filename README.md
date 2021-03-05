@@ -28,7 +28,7 @@ It a onsite multiple player puzzle game
     <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from here</li>
    <li>Extract the .zip file</li>
    <li>Go to Millantis_master folder</li>
-   <li>Open the terminal (clt+alt+T)</li>
+   <li>Open the terminal on that directory</li>
    <li>On terminal command:<br/> <b>./app-run</b> </li>
     
   </ol>
