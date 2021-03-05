@@ -25,7 +25,7 @@ It a onsite multiple player puzzle game
  <div>
   <h1>Linux Install Guide</h1>
   <ol>
-    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from here</li>
+    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from latest@Release</li>
    <li>Extract the .zip file</li>
    <li>Go to Millantis_master folder</li>
    <li>Open the terminal on that directory</li>
@@ -40,7 +40,7 @@ It a onsite multiple player puzzle game
   <div>
   <h1>Windows Install Guide</h1>
   <ol>
-    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from here</li>
+    <li>git clone https://github.com/Abdullahfoysal/Millantis_Game.git | Download .zip from latest@Release</li>
    <li>Extract the .zip file</li>
    <li>Go to Millantis_master folder</li>
    <li>Double Click the:<br/> <b>millantis.exe</b> </li>
