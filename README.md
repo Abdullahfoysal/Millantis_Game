@@ -30,6 +30,8 @@ It a onsite multiple player puzzle game
    <li>Go to Millantis_master folder</li>
    <li>Open the terminal on that directory</li>
    <li>On terminal command:<br/> <b>./app-run</b> </li>
+   <hr>
+   <li>To reset a match reselect area again</li>
     
   </ol>
   
