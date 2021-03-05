@@ -215,7 +215,7 @@ RenderWindow window(VideoMode(win_x,win_y),"Millantis",Style::Titlebar |Style::C
                 texture.loadFromFile(s);
                 sprite.setTexture(texture);
                 sprite.setPosition(20,20);
-                sprite.setScale(0.5,0.5);
+                sprite.setScale(0.2,0.2);
               }
 
               void show()
@@ -450,7 +450,7 @@ int main()
 
 
 
-       std::cout<<"Turn for player No: "<<player_no<<std::endl;
+      // std::cout<<"Turn for player No: "<<player_no<<std::endl;
 
        init();
        p[0]=true;   //  adj call to refresh  //[row*column][row*column]
