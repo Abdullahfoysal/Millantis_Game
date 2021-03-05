@@ -7,6 +7,8 @@ It a onsite multiple player puzzle game
  <li>1.Each player has a single turn to drag a line between two points.<br/></li>
  <li>2.If a player can make a square then he will got a point and have to drag next line.<br/></li>
   <li>3.With max square player will win the match.<br/></li>
+   <hr>
+   <li>To reset a match reselect area again</li>
 
    </ul>
     </div>
@@ -30,8 +32,7 @@ It a onsite multiple player puzzle game
    <li>Go to Millantis_master folder</li>
    <li>Open the terminal on that directory</li>
    <li>On terminal command:<br/> <b>./app-run</b> </li>
-   <hr>
-   <li>To reset a match reselect area again</li>
+  
     
   </ol>
   
