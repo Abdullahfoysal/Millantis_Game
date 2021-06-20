@@ -1,5 +1,8 @@
 # Millantis
 It a onsite multiple player puzzle game
+
+[![GamePlayVideo](thumnail.png)](http://www.youtube.com/watch?v=m7HYi13Zgk4)
+
 <ul>
  <div>
    <h2>Rules</h2>
